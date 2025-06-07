@@ -1,0 +1,145 @@
+{
+  "cookies": [
+    {
+      "name": "OkrxAntiforgery",
+      "value": "CfDJ8B19jPDpvn9Pq4q_OPowd_UR1f8rAQ9M5VoAXbhrljHnkTbM_aGf7m9G6edS5f360HlN9f3iri7ZDD42_TOnl7MPI-qdOtazFCSx4_gjLbOYVJIrkSb-CeW9wfUiMKinZp8zYSCsrIQI7PBrt0MjvKI",
+      "domain": "forms.okrxapp.ca",
+      "path": "/16b5660a-0386-4d84-b324-61685071d644",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1032643408.1749123727",
+      "domain": ".okrx.ca",
+      "path": "/",
+      "expires": 1783683726.91052,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjSessionUser_3765844",
+      "value": "eyJpZCI6IjJiZTQwZjVhLWVlNWUtNWIzNy1hNTIxLWNjODU0ZWJkNmU5MCIsImNyZWF0ZWQiOjE3NDkxMjM3MjcwNjcsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".okrx.ca",
+      "path": "/",
+      "expires": 1780659727,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_3765844",
+      "value": "eyJpZCI6IjI4MzUwZDlmLTA5MTEtNGFmMS1hZDJlLTRiZjUxOGVmMWMyOCIsImMiOjE3NDkxMjM3MjcwNjcsInMiOjEsInIiOjEsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".okrx.ca",
+      "path": "/",
+      "expires": 1749125527,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-geo",
+      "value": "NA",
+      "domain": "okrx.b2clogin.com",
+      "path": "/",
+      "expires": 1749127337.101441,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-csrf",
+      "value": "MktDN2NFdEQ5VHJYdkVIekNEakZBbkR1VkxJSU0weWlFbi95UTIvTWh0cndLcjhBUkxuaWxhdVVTUTZzdkNEejZ3NVlTQ2lOT1VoWmQxMWlLYUZseGc9PTsyMDI1LTA2LTA1VDExOjQyOjIxLjA0MDg4OTZaO3F2bDQrSEpyQTdwSENNUjJYd2FRbUE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjozfQ==",
+      "domain": ".okrx.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-sso:okrx.onmicrosoft.com_0",
+      "value": "m1.ZTZEi8L+ednjX8ZB.BqDCJEN4E4A1dBcwx7CMhA==.0.fVh4OKrxeUtXox+4Uio5S3Ec5xCrmbFHlQnL85oBwYyCld8X6cmlnKZ2X8yaIkoAi3gXTcpcEbU5SJm9L9Ka3X7DFnJBJh7pYk/mEu3KcleJ91cXHxWcB6OyBuxBbHAU/C/qDJKC3d7Vg5iBYPTYX29i1YDtCrhcHMNjJaNrdkWTfY1Md8rPgptyUgbKXXuBMyIL5tP/DLaMZ2wlz16VToF0xTKRcDPgnq2BoMHckZPCuDbn50RAttDL0A4DnhvU5nH4Zf+qNgzG4cRVkoWIXLsAgMfE/grsrPGoNwpKCNFPLa4LveoEAafdfDLO49ntTjmY1souApd9OTWmF6PsWOles+HrvGz5mhfzikT24MFU3HRwecTAfc5wee63vEpnsIDdmKM2EKHF/1scidD289/dCIalqOCCTMkBFTV8iHziZAHRGioNZhuwFTKrzOeRCv5k0yCuarXxfJfPu/QJvNpdHwSIhGXqbfR6G+Iv+Gsasf80cuRtCiE4YgeVs0AEDxW2iw6HV2dSg//A",
+      "domain": ".okrx.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Cookies",
+      "value": "CfDJ8B19jPDpvn9Pq4q_OPowd_XgBRweuOvae5tvF7_sq8L0kSDU_JEXGwXSIsnZ58r0UmSz0aeZH66GT0GumvYZKIWwgDIMieQNnhW-wgXapn1cVtWuuo5wTHHhaCRrs8z_FSaL-3VtkID9AMU3yrgNNvAf8qfTdde4N1JmVWPFSClZS_srPdnlYNoqxeJENvwNhIS1om8-IGTwXcDZQudg5hMUnldxQbkD5EpQWYuUBztphNJYfvG5jCPpWDuTBWddLTAQSJRgWk-R1ajtyPAdpfljUR_x83Cn3vN9vUXqaYoNVf4vjhWc1VRwR38x768jD6UfiT1RytM-1Hbg2IcA55eir8jQRYjMBss-8H2SIGCzTUjvXusFhJY1cuzm42OITmPjQhEXRmAY0FiVfyGbq-tqWzI6PScTKhMbz91G2-J-F_XYYO5fUtrrs4XdpIBB9tBcIV1jFLtF_HSY-FMK8OebmEOC1V5Pag_v6in8xpiLidy5SrFxt3diP6wkjtja9iPuaRb8kcSsWXC1gajx9l7lRig0slKDiRvFG8V8Agy_b16QM5YxGrYJ9rA7QdOnrdrz_NCjSkvniJ7jLTRXFT3bGtH029CsF32Zdd5t3J9NkpjXkH4nFUsyjpgIkU037PRnj6WA0eKNTfs1DtUXLrKGTdVV9KxWNd3euJsWL78QRJZqVwUtItMh3vncs4Htq2nV_LVhy774I-ddCCuSzoPAjYko7eEw9tLry4Frwo_n9J-BZo-XF9gc2zRfTlO20MqdHEfYIHWJptEihAIWD17Xw2jyu-GQvU_l447RDPoVaVblJdFQqruvo8rzyRWbvQxsLbNJkiQCNG78zRlbyoU_PbLxJ9DDhoyYgPkKUXtZk0nhmZ74bNQM1YRVep-eZYi67sB2lQo9_wQyEblkUA1hSONRwJgQZB1vyll4D9VUOvABQ_IsF0vzQl6hStozpTdfGKuTmhOTG9P5-eYTuyeASU0ylCMGnAg1VEHzQndQMxRJPl_KuwmNMfF06ST2TlaJKt7JrQvEqh8KD7FTBduEHmWsJZxwFYsiji2TR-8jR8nmDPFL_353Y7sv3vsjrAMnXR7foBWT7Ak2Hndsnwg07tsF-1zszJfobc8NEUskoFuEu-jhLa6XMNx9UC8fbfU7wV0M6ZHYlcxbtVsvD-4k6__Pq4TW7dcTLmXFbZdnz62Yq5ivwmBNG39c0AktRcVmS1ggAF_wq3xqzS30rou2zRG7yUHSxOWiXtSFY0NtbNIumB8Gi62PwacJtj_H8DQ2AQ3DnzndD5KJK7qmarG69hppBqpYRiAL0XjV3YYTXMVuis5w3GyPW7aMsc-I_q5sa46xU2SkZD-xl3xTwkxOkCXuCc7TJwXZCUN07RxqggJhG09ePpwwzBT5o45wEy_XMoHBCMAyvOhq1D8yQg9agNZ4tBD3R79so87C19CQrKGghTojB_Gkcxf6GofANX_M1BO1dpd2zPpaDaU7blHC0kuLZD6fsXgcC467H9f4pmqBkuu2pNyNk9VN3FZHAJrQmmjRPq_8666-zcAFZOO14Ik27SAMOFCWkpg04wQs3aCCIUKDDa_vW7kimlIAlz54oxOh_UFgjTNMfnyzVdO7B1ONZmmxRbw2bcSqD3J1",
+      "domain": "forms.okrxapp.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "X-OkRx-Language",
+      "value": "en",
+      "domain": "forms.okrxapp.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.659602985.1749123754",
+      "domain": ".okrxapp.ca",
+      "path": "/",
+      "expires": 1783683754.125622,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-OkRx-Timeout",
+      "value": "06%2F05%2F2025%2011%3A42%3A36",
+      "domain": "forms.okrxapp.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_Q60KBC6ZX4",
+      "value": "GS2.1.s1749123726$o1$g1$t1749123758$j28$l0$h0",
+      "domain": ".okrx.ca",
+      "path": "/",
+      "expires": 1783683758.906125,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_5QYRNSTDRM",
+      "value": "GS2.1.s1749123754$o1$g0$t1749123758$j56$l0$h0",
+      "domain": ".okrxapp.ca",
+      "path": "/",
+      "expires": 1783683758.91096,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://forms.okrxapp.ca",
+      "localStorage": [
+        {
+          "name": "isNavbarVerticalCollapsed",
+          "value": "false"
+        }
+      ]
+    }
+  ]
+}
