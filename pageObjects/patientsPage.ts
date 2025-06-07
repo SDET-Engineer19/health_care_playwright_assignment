@@ -1,6 +1,7 @@
 import { Page, Locator, expect } from '@playwright/test';
 import LoginPage from '../pageObjects/LoginPage';
 const testData = JSON.parse(JSON.stringify(require("../testData/patient_data.json"))) 
+
 export default class PatientsPage extends LoginPage {
 
     readonly page: Page;
